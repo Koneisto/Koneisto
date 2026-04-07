@@ -21,4 +21,4 @@ Building smart home systems and AI tools in Finland. Everything runs locally on 
 
 #### Stack
 
-DGX Spark GB10 | Home Assistant | Node-RED | n8n | NemoClaw/OpenClaw | Qwen3.5-35B (local vLLM) | OpenMemory | Signal
+`DGX Spark GB10` `Home Assistant` `Node-RED` `n8n` `NemoClaw` `vLLM` `OpenMemory` `Signal`
