@@ -4,7 +4,7 @@ Building smart home systems and AI agent tools in Finland. Everything runs local
 
 **MCP Servers** &nbsp; [mcp-weather](https://github.com/Koneisto/mcp-weather) &middot; [HomeAssistant-Light-MCP](https://github.com/Koneisto/HomeAssistant-Light-MCP)
 
-**Home Assistant** &nbsp; [ruuvihome](https://github.com/Koneisto/ruuvihome) &middot; [home-assistant-toshiba_ac](https://github.com/Koneisto/home-assistant-toshiba_ac)
+**Home Assistant** &nbsp; [ruuvihome](https://github.com/Koneisto/ruuvihome) 
 
 **Node-RED** &nbsp; [dashboard2-chart-persistence](https://github.com/Koneisto/dashboard2-chart-persistence)
 
