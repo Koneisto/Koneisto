@@ -1,4 +1,4 @@
-Building smart home systems and AI agent tools in Finland. Everything runs locally on an NVIDIA DGX Spark -- no cloud dependencies for core functionality.
+Building smart home systems and AI agent tools in Finland.
 
 **AI Agents** &nbsp; [nemoclaw-skill](https://github.com/Koneisto/nemoclaw-skill) &middot; [no-as-a-service](https://github.com/Koneisto/no-as-a-service)
 
